@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\class_test03\bin\Debug\net8.0\class_test03.exe
+C:\Users\user\source\repos\class_test03\bin\Debug\net8.0\class_test03.deps.json
+C:\Users\user\source\repos\class_test03\bin\Debug\net8.0\class_test03.runtimeconfig.json
+C:\Users\user\source\repos\class_test03\bin\Debug\net8.0\class_test03.dll
+C:\Users\user\source\repos\class_test03\bin\Debug\net8.0\class_test03.pdb
+C:\Users\user\source\repos\class_test03\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\class_test03.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\class_test03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\class_test03.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\class_test03.AssemblyInfo.cs
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\class_test03.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\class_te.B8978332.Up2Date
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\class_test03.dll
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\refint\class_test03.dll
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\class_test03.pdb
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\class_test03.genruntimeconfig.cache
+C:\Users\user\source\repos\class_test03\obj\Debug\net8.0\ref\class_test03.dll
