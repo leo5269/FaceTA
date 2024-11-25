@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\LeoFace\bin\Debug\net8.0\LeoFace.exe
+C:\Users\user\source\repos\LeoFace\bin\Debug\net8.0\LeoFace.deps.json
+C:\Users\user\source\repos\LeoFace\bin\Debug\net8.0\LeoFace.runtimeconfig.json
+C:\Users\user\source\repos\LeoFace\bin\Debug\net8.0\LeoFace.dll
+C:\Users\user\source\repos\LeoFace\bin\Debug\net8.0\LeoFace.pdb
+C:\Users\user\source\repos\LeoFace\obj\Debug\net8.0\LeoFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LeoFace\obj\Debug\net8.0\LeoFace.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LeoFace\obj\Debug\net8.0\LeoFace.AssemblyInfo.cs
+C:\Users\user\source\repos\LeoFace\obj\Debug\net8.0\LeoFace.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LeoFace\obj\Debug\net8.0\LeoFace.dll
+C:\Users\user\source\repos\LeoFace\obj\Debug\net8.0\refint\LeoFace.dll
+C:\Users\user\source\repos\LeoFace\obj\Debug\net8.0\LeoFace.pdb
+C:\Users\user\source\repos\LeoFace\obj\Debug\net8.0\LeoFace.genruntimeconfig.cache
+C:\Users\user\source\repos\LeoFace\obj\Debug\net8.0\ref\LeoFace.dll
